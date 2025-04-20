@@ -1,5 +1,5 @@
 ## Hi there, I am Oscar 👋
-#🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 <!--
 **Oscareeg/oscareeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
